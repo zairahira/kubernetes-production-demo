@@ -40,5 +40,4 @@ kubectl port-forward svc/nginx-production-service 8080:80
 ```
 Then open: http://localhost:8080
 
-### Connection to My Experience
-This project bridges my strong Linux production support background (24/7 uptime, incident management, monitoring with Nagios/Pandora) with modern cloud-native technologies (Kubernetes, containerization) while preparing for CKA.
+<img width="921" height="466" alt="image" src="https://github.com/user-attachments/assets/026ffaa7-836f-4fc5-9d3b-4038f7517bd8" />
